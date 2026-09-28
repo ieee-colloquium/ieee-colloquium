@@ -25,6 +25,12 @@
   <img src="https://img.shields.io/badge/Innovation-E85D2A?style=for-the-badge" alt="Innovation">
 </p>
 
+<p align="center">
+  <a href="https://inspire-colloquium.vercel.app/">
+    <img src="https://img.shields.io/badge/Visit_Official_Website-00A6D6?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit the official INSPIRE Colloquium website">
+  </a>
+</p>
+
 ---
 
 ## Welcome to INSPIRE
@@ -69,7 +75,7 @@ The colloquium brings together academic curiosity, technical creativity and resp
 
 🟢 **Registrations are currently open.**
 
-Students and researchers from the eligible categories are invited to submit their ideas and become part of the INSPIRE journey. Official registration instructions are shared through the event website and authorised communication channels.
+Students and researchers from the eligible categories are invited to submit their ideas and become part of the INSPIRE journey. Visit the **[official INSPIRE Colloquium website](https://inspire-colloquium.vercel.app/)** for event information, the registration portal, eligibility, tracks, schedule and authorised updates.
 
 ---
 
@@ -126,6 +132,7 @@ Mira Road, Mumbai, Maharashtra, India
 
 For official queries and participant support:
 
+**Website:** [inspire-colloquium.vercel.app](https://inspire-colloquium.vercel.app/)  
 **Email:** [colloquium.ieee@slrtce.in](mailto:colloquium.ieee@slrtce.in)
 
 ---
